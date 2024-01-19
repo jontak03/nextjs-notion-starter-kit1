@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'f4374a047d3941f39b52fc3bdc6d58cf',
+  rootNotionPageId: '489b18f494f64522a06d7b6ad840f709',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Misty 项目草稿',
-  domain: 'drafts.misty.moe',
-  author: 'Misty',
+  name: 'Joseph Bonar',
+  domain: 'paw-10c.eu.org',
+  author: 'Joseph Bonar',
 
   // open graph metadata (optional)
   description: '这里是Misty存放她平时工作项目笔记的地方，欢迎来这里搜罗信息',
